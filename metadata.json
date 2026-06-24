@@ -1,0 +1,6 @@
+{
+  "name": "Apex Strength Tracker",
+  "description": "A premium, mobile-first fitness tracking web application similar to Strong and Hevy, built with React, TypeScript, Zustand, and Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
